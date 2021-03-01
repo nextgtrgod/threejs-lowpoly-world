@@ -10,7 +10,7 @@
     "@babel/plugin-proposal-class-properties": "^7.10.4",
     "core-js": "^3.6.5",
     "dat.gui": "^0.7.7",
-    "three": "^0.119.1"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
